@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2L2wcY7G_IxFBOCLuSb8z5&ust=1744457774249000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMig0_Hxz4wDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentbutmad&label=Profile%20views&color=0e75b6&style=flat" alt="silentbutmad" /> </p>
 
-- 🔭 I’m currently working on Spring Ai **Maza Ai**
+- 🔭 I’m currently working on Spring Ai = **Maza Ai**
 
 - 📫 How to reach me **mohitmahajan489@gmail.com**
 
