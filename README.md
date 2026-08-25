@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=silentbutmad&label=Profile%20views&color=0e75b6&style=flat" alt="silentbutmad" /> </p>
+
 # Hi 👋, I'm Mohit Dnyaneshwar Mahajan
 
 ### 🚀 Java Backend Developer | Spring Boot | Microservices
