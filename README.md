@@ -145,8 +145,6 @@ A web-based grievance management system developed for the **School of Computer S
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silentbutmad&theme=tokyonight" alt="GitHub Profile Details"/>
 </p>
