@@ -1,41 +1,181 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohit Dnyaneshwar Mahajan
-==================================================================================================================================================
+# Hi 👋, I'm Mohit Dnyaneshwar Mahajan
 
-Java Developer
---------------
+### 🚀 Java Backend Developer | Spring Boot | Microservices
 
-I am a motivated software developer with a strong foundation in Java, Spring Boot, SQL, and web development.
+I'm a passionate software developer focused on building **scalable backend applications, REST APIs, and microservices-based systems**. I enjoy solving problems, learning new technologies, and turning ideas into practical software solutions.
 
-I have experience building backend applications, REST APIs, and database-driven systems.
+* 🔭 Currently working on **Student Grievance System for School of Computer Sciences, KBCNMU, Jalgaon**
+* 🌱 Currently learning **System Design & Backend Architecture**
+* 💻 Interested in **Java, Spring Boot, Microservices & Backend Development**
+* 🤖 Exploring **AI integration with Spring AI and Google Gemini**
+* 🤝 Open to **Java Developer / Backend Developer opportunities**
+* 📍 Based in **India**
+* 📫 Reach me at **[mohitmahajan489@gmail.com](mailto:mohitmahajan489@gmail.com)**
 
-I am familiar with technologies such as React, Node.js, MySQL, Git, and microservices.
+---
 
-I enjoy solving programming problems and developing practical, user-focused applications.
+## 🛠️ Tech Stack
 
-I am a quick learner who is eager to explore new technologies and improve my technical skills.
-
-My goal is to build a successful career as a software developer and contribute to real-world projects.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [mohitmahajan489@gmail.com](mailto:mohitmahajan489@gmail.com)
-* 🚀  I'm currently working on [Student Grievance System for School of Computer Sciences, KBCNUM, Jalgaon](http://e)
-* 🧠  I'm currently learning System Design
+### 💻 Languages
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 </p>
 
-### Socials
+**Java • JavaScript • C++ • SQL**
 
-<p align="left"> <a href="https://www.github.com/silentbutmad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/mohit-mahajan-mj/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+### ⚙️ Backend
 
-<b>My GitHub Stats</b>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+</p>
 
-<a href="http://www.github.com/silentbutmad"><img src="https://github-readme-stats.vercel.app/api?username=silentbutmad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="silentbutmad's GitHub stats" /></a>
+**Spring Boot • Spring MVC • Spring Security • Spring AI • REST APIs • Microservices • Node.js**
 
-<a href="https://github.com/silentbutmad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentbutmad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🗄️ Database
 
-<b>Top Repositories</b>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</p>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+**MySQL • PostgreSQL • SQL • JDBC • Hibernate/JPA • Prisma**
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
+
+**React • JavaScript • HTML • CSS**
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+
+  
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/>
+</p>
+
+**Git • GitHub • Maven • Linux • VS Code • IntelliJ IDEA**
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 Expense Management App — Microservices
+
+A **microservices-based expense management application** developed as a group project. I was responsible for **designing and developing the complete backend services** and integrating them into the distributed microservices architecture.
+
+### 🔧 My Contributions
+
+* 🏗️ Designed and developed the **complete backend microservices**
+* 🔐 Implemented **authentication and authorization** using JWT and Spring Security
+* 💸 Developed personal and business expense management services
+* 📊 Developed reports and transaction management APIs
+* 🧾 Integrated **OCR-based bill scanning**
+* 🔄 Implemented **API Gateway and Eureka Service Discovery**
+* ⚡ Used **Redis** for OTP and rate-limiting functionality
+* 🗄️ Designed and integrated databases
+* 🚀 Worked on deployment and production configuration
+* 🔗 Developed and integrated REST APIs for communication between services
+
+### 🛠️ Tech Stack
+
+`Java` `Spring Boot` `Spring Cloud` `Spring Security` `JWT` `REST APIs` `Microservices` `Eureka` `API Gateway` `Redis` `PostgreSQL` `Docker` `Git`
+
+---
+
+## 🤖 Maza AI — AI Chat Application
+
+**Maza AI** is an AI-powered chat application built to provide an interactive conversational experience using modern AI technologies.
+
+### ✨ Features
+
+* 💬 AI-powered conversational chat
+* 🧠 Chat memory and conversation history
+* 🔐 User registration and authentication
+* 👤 User profile management
+* 🖼️ AI image generation
+* 🔎 Web search integration
+* 🌙 Dark mode
+* 📱 Responsive user interface
+
+### 🔧 My Contributions
+
+* Developed the **Spring Boot backend**
+* Integrated **Spring AI with Google Gemini**
+* Implemented AI conversation and chat-memory functionality
+* Developed REST APIs for frontend-backend communication
+* Implemented authentication and user management
+* Integrated external AI and search services
+
+### 🛠️ Tech Stack
+
+`Java` `Spring Boot` `Spring AI` `Google Gemini` `REST APIs` `React` `MySQL` `Git`
+
+---
+
+## 🎓 Student Grievance System (Ongoing)
+
+A web-based grievance management system developed for the **School of Computer Sciences, KBCNMU, Jalgaon**, allowing students to submit complaints, track their status, and communicate with administrators and support agents.
+
+### ✨ Features
+
+* 🎫 Complaint and ticket management
+* 🔐 Authentication and authorization
+* 👨‍💼 Admin and agent management
+* 📊 Grievance tracking and dashboard
+* 🔄 REST API-based backend
+* 🗄️ Database management
+
+### 🛠️ Tech Stack
+
+`Java` `Spring Boot` `REST APIs` `React` `MySQL`
+
+---
+
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silentbutmad&theme=tokyonight" alt="GitHub Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=silentbutmad&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silentbutmad&theme=tokyonight" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/silentbutmad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohit-mahajan-mj/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:mohitmahajan489@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 💡 "Code. Learn. Build. Improve."
+
+⭐ Thanks for visiting my profile!
