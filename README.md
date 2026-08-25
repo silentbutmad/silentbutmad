@@ -44,7 +44,6 @@ A **microservices-based expense management application** developed as a group pr
 * 🔄 Implemented **API Gateway and Eureka Service Discovery**
 * ⚡ Used **Redis** for OTP and rate-limiting functionality
 * 🗄️ Designed and integrated databases
-* 🚀 Worked on deployment and production configuration
 * 🔗 Developed and integrated REST APIs for communication between services
 
 ### 🛠️ Tech Stack
